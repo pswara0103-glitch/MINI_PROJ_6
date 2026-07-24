@@ -1,0 +1,11 @@
+Income,Age,EmploymentStatus,CreditScore,LoanAmount,Education,ExistingDebts,LoanStatus
+50000.0,25.0,Employed,720.0,150000.0,Graduate,10000.0,Approved
+30000.0,22.0,Unemployed,580.0,200000.0,High School,50000.0,Rejected
+80000.0,35.0,Employed,810.0,250000.0,Postgraduate,20000.0,Approved
+45000.0,29.0,Self-Employed,690.0,180000.0,Graduate,15000.0,Approved
+25000.0,21.0,Unemployed,540.0,120000.0,High School,30000.0,Rejected
+60000.0,,Employed,760.0,220000.0,Graduate,25000.0,Approved
+70000.0,40.0,Self-Employed,,300000.0,Postgraduate,40000.0,Approved
+40000.0,31.0,,640.0,160000.0,Graduate,20000.0,Rejected
+,27.0,Employed,710.0,190000.0,Graduate,18000.0,Approved
+55000.0,33.0,Employed,680.0,,Postgraduate,,Approved
